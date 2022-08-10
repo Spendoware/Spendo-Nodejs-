@@ -65,4 +65,23 @@ serviceTypes.VERIFY_NIN_OTP
 }
 ```
 
+## Error
+
+```javascript
+{
+    "success": false,
+    "message": "OTP sent failed",
+    "code": 0,
+    "data": null
+}
+```
+
+
+## Author
+[Samiu Salihu] (https://github.com/realhaqq)
+
+
+## Acknowledgements
+[Spendo Technologies Inc.](https://spendoware.com)
+
 
