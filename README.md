@@ -78,7 +78,7 @@ serviceTypes.VERIFY_NIN_OTP
 
 
 ## Author
-[Samiu Salihu] (https://github.com/realhaqq)
+[Samiu Salihu](https://github.com/realhaqq)
 
 
 ## Acknowledgements
