@@ -1,0 +1,28 @@
+{
+  "name": "spendoware",
+  "version": "1.0.0",
+  "description": "Spendoware Nodejs Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spendoware/SpendoNodejs.git"
+  },
+  "keywords": [
+    "lirbary",
+    "messaging",
+    "send",
+    "whatsapp"
+  ],
+  "author": "Samiul Haqq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spendoware/SpendoNodejs/issues"
+  },
+  "homepage": "https://github.com/Spendoware/SpendoNodejs#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
