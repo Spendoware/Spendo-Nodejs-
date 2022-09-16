@@ -1,6 +1,6 @@
 const axios = require('axios')
 const serviceTypes = require("./constants/services");
-const baseUrl = "https://gateway.spendoware.com";
+const baseUrl = "https://api.spendoware.com";
 
 
 /**
